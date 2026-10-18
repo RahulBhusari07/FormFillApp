@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
    <h1>Welcome!! Saidemy DevOps Student Registration Form!! </h1>
-   <h2> One Stop DevOps Destinti! <h2>
+   <h2>Your One Stop DevOps Destination! <h2>
     <p>Please fill in this form for registration!!!</p>
     <hr>
     <br>  
