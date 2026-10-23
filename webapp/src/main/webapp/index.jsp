@@ -168,7 +168,7 @@
         <form action="action_page.php" method="post" class="container">
             <div class="brand">
                 <div class="brand-icon">S</div>
-                <h1>Join the DevOps Community </h1>
+                <h1>Join the DevOps Community SAI </h1>
                 <h2>Saidemy — Your One-Stop DevOps Destination</h2>
             </div>
 
